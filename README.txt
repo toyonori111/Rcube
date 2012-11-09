@@ -73,7 +73,7 @@ http://www.zero-matter.com/snd/sn05/index.html
 
 　http://jsdo.it/oxoofo/rubikcube　3D製作の参考にさせてもらっております。
 
-　※2Dの遊び方で必要なデータ以外は間違ったデータもあるので絶対にダウンロード等はしないでください。
+　※2Dきゅーぶの遊び方で必要なデータ以外はダウンロード等しないでください。
 
 ・ルービックキューブ公式サイト
 http://rubikcube.jp/
